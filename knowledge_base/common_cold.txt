@@ -1,0 +1,38 @@
+Disease: Common Cold
+
+Overview:
+The common cold is a mild viral infection of the upper respiratory tract. It primarily affects the nose and throat and is one of the most common illnesses worldwide. Most people recover within 7 to 10 days without complications.
+
+Symptoms:
+- Sneezing
+- Runny or blocked nose
+- Sore throat
+- Mild cough
+- Mild fever (occasionally)
+- Headache
+- Fatigue
+- Watery eyes
+
+Causes:
+The common cold is caused by viruses, most commonly rhinoviruses. It spreads through respiratory droplets released when an infected person coughs or sneezes, as well as through contact with contaminated surfaces.
+
+Risk Factors:
+- Weak immune system
+- Close contact with infected individuals
+- Cold weather
+- Poor hand hygiene
+
+Diagnosis:
+Diagnosis is usually based on the patient's symptoms and physical examination. Laboratory tests are rarely required.
+
+Treatment:
+There is no specific cure for the common cold. Treatment focuses on relieving symptoms through rest, hydration, warm fluids, pain relievers, throat lozenges, and nasal saline sprays.
+
+Prevention:
+- Wash hands frequently.
+- Avoid close contact with sick individuals.
+- Cover coughs and sneezes.
+- Maintain a healthy lifestyle.
+
+Emergency Signs:
+Seek medical attention if symptoms persist for more than two weeks, breathing becomes difficult, chest pain develops, or a high fever occurs.

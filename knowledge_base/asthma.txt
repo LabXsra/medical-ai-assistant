@@ -1,0 +1,31 @@
+Disease: Asthma
+
+Overview:
+Asthma is a chronic inflammatory disease that causes narrowing of the airways, leading to breathing difficulty.
+
+Symptoms:
+- Wheezing
+- Cough
+- Chest tightness
+- Shortness of breath
+
+Causes:
+Genetic factors, allergies, exercise, pollution, smoke, respiratory infections.
+
+Risk Factors:
+- Family history
+- Allergies
+- Smoking
+- Air pollution
+
+Diagnosis:
+Spirometry, lung function tests, allergy testing.
+
+Treatment:
+Inhaled bronchodilators, corticosteroids, avoiding triggers.
+
+Prevention:
+Avoid allergens, smoke, pollution, and follow prescribed medications.
+
+Emergency Signs:
+Severe wheezing, inability to speak full sentences, bluish lips.

@@ -1,0 +1,33 @@
+Disease: Bronchitis
+
+Overview:
+Bronchitis is inflammation of the bronchial tubes that carry air to the lungs. It may be acute or chronic.
+
+Symptoms:
+- Persistent cough
+- Mucus production
+- Wheezing
+- Chest discomfort
+- Fatigue
+- Mild fever
+
+Causes:
+Viruses, bacteria, smoking, air pollution.
+
+Risk Factors:
+- Smoking
+- Air pollution
+- Weak immune system
+- Chronic lung disease
+
+Diagnosis:
+Clinical examination, chest X-ray if pneumonia is suspected.
+
+Treatment:
+Rest, hydration, bronchodilators, cough medicine, antibiotics if bacterial.
+
+Prevention:
+Avoid smoking, wash hands regularly, influenza vaccination.
+
+Emergency Signs:
+Difficulty breathing, coughing blood, high fever.

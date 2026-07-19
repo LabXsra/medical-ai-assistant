@@ -1,0 +1,32 @@
+Disease: Allergic Rhinitis
+
+Overview:
+Allergic rhinitis is an allergic reaction causing inflammation of the nasal passages after exposure to allergens.
+
+Symptoms:
+- Sneezing
+- Runny nose
+- Nasal congestion
+- Itchy eyes
+- Watery eyes
+- Cough
+
+Causes:
+Pollen, dust mites, mold, pet dander.
+
+Risk Factors:
+- Family history
+- Asthma
+- Exposure to allergens
+
+Diagnosis:
+Clinical evaluation and allergy testing.
+
+Treatment:
+Antihistamines, nasal corticosteroids, avoiding allergens.
+
+Prevention:
+Reduce allergen exposure, use air filters, maintain indoor cleanliness.
+
+Emergency Signs:
+Difficulty breathing, severe swelling of the face or throat.

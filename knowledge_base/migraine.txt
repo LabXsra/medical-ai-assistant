@@ -1,0 +1,33 @@
+Disease: Migraine
+
+Overview:
+Migraine is a neurological disorder characterized by recurrent moderate to severe headaches.
+
+Symptoms:
+- Severe headache
+- Nausea
+- Vomiting
+- Light sensitivity
+- Sound sensitivity
+- Blurred vision
+
+Causes:
+Genetics, hormonal changes, stress, lack of sleep, certain foods.
+
+Risk Factors:
+- Female gender
+- Family history
+- Stress
+- Sleep deprivation
+
+Diagnosis:
+Medical history, neurological examination, MRI or CT scan if required.
+
+Treatment:
+Pain relievers, triptans, preventive medications, adequate hydration and sleep.
+
+Prevention:
+Regular sleep, stress management, avoiding dietary triggers.
+
+Emergency Signs:
+Sudden severe headache, confusion, weakness, vision loss.

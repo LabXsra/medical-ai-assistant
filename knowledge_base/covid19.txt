@@ -1,0 +1,37 @@
+Disease: COVID-19
+
+Overview:
+COVID-19 is a viral respiratory disease caused by SARS-CoV-2. It ranges from asymptomatic infection to severe pneumonia and respiratory failure.
+
+Symptoms:
+- Fever
+- Dry cough
+- Fatigue
+- Shortness of breath
+- Loss of taste
+- Loss of smell
+- Sore throat
+- Headache
+- Body pain
+
+Causes:
+Transmission occurs through respiratory droplets, aerosols, and close contact with infected individuals.
+
+Risk Factors:
+- Older age
+- Diabetes
+- Heart disease
+- Obesity
+- Chronic lung disease
+
+Diagnosis:
+PCR testing, rapid antigen testing, chest imaging, and clinical evaluation.
+
+Treatment:
+Supportive care, antiviral medications, oxygen therapy when necessary, and hospitalization for severe cases.
+
+Prevention:
+Vaccination, wearing masks during outbreaks, hand hygiene, and maintaining physical distance.
+
+Emergency Signs:
+Difficulty breathing, persistent chest pain, confusion, bluish lips, or low oxygen levels.

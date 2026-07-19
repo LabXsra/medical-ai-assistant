@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Medical AI Assistant</title>
+
+    <link rel="stylesheet" href="/static/styles.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- ========================================= -->
+    <!-- Hero -->
+    <!-- ========================================= -->
+
+    <header class="hero">
+
+        <h1>🩺 Medical AI Assistant</h1>
+
+        <p class="subtitle">
+            AI-Powered Clinical Decision Support System
+        </p>
+
+        <div class="tech-stack">
+
+            <span>Clinical NLP</span>
+
+            <span>Machine Learning</span>
+
+            <span>RAG</span>
+
+            <span>Llama 3.2</span>
+
+        </div>
+
+    </header>
+
+
+
+    <!-- ========================================= -->
+    <!-- Input Card -->
+    <!-- ========================================= -->
+
+    <section class="card input-card">
+
+        <h2>Describe Your Symptoms</h2>
+
+        <p class="description">
+
+            Enter your symptoms in natural language.
+
+            Example:
+
+            <br><br>
+
+            <i>
+
+            Age: 22
+
+            <br>
+
+            I have fever, sore throat, cough and runny nose for 3 days.
+
+            </i>
+
+        </p>
+
+        <textarea
+
+            id="symptoms"
+
+            rows="8"
+
+            placeholder="Type your symptoms here..."
+
+        ></textarea>
+
+        <button
+
+            class="analyze-btn"
+
+            onclick="analyzeSymptoms()"
+
+        >
+
+            🔍 Analyze Symptoms
+
+        </button>
+
+    </section>
+
+
+
+    <!-- ========================================= -->
+    <!-- Loading -->
+    <!-- ========================================= -->
+
+    <div
+
+        id="loading"
+
+        class="loading-card"
+
+        style="display:none;"
+
+    >
+
+        <h2>🩺 Medical AI is Analyzing...</h2>
+
+        <div class="loading-bar">
+
+            <div class="loading-progress"></div>
+
+        </div>
+
+        <p>
+
+            Clinical NLP →
+
+            Machine Learning →
+
+            Medical Knowledge →
+
+            Llama 3.2
+
+        </p>
+
+    </div>
+
+
+
+    <!-- ========================================= -->
+    <!-- Results -->
+    <!-- ========================================= -->
+
+    <div id="result">
+
+        <div class="welcome-card">
+
+            <h2>Welcome 👋</h2>
+
+            <p>
+
+                This Medical AI Assistant combines
+
+                <b>Clinical NLP</b>,
+
+                <b>Machine Learning</b>,
+
+                <b>Retrieval-Augmented Generation (RAG)</b>
+
+                and
+
+                <b>Llama 3.2</b>
+
+                to analyze symptoms and provide educational insights.
+
+            </p>
+
+            <div class="features">
+
+                <div class="feature">
+
+                    🩺
+
+                    <span>Clinical NLP</span>
+
+                </div>
+
+                <div class="feature">
+
+                    🤖
+
+                    <span>Disease Prediction</span>
+
+                </div>
+
+                <div class="feature">
+
+                    📚
+
+                    <span>Medical Knowledge</span>
+
+                </div>
+
+                <div class="feature">
+
+                    🧠
+
+                    <span>AI Explanation</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- ========================================= -->
+    <!-- Footer -->
+    <!-- ========================================= -->
+
+    <footer>
+
+        <hr>
+
+        <p>
+
+            ⚠️
+
+            This application is intended for educational purposes only.
+
+            It does not replace professional medical advice,
+
+            diagnosis or treatment.
+
+        </p>
+
+        <p>
+
+            Built using
+
+            FastAPI •
+
+            Clinical NLP •
+
+            Machine Learning •
+
+            FAISS •
+
+            RAG •
+
+            Llama 3.2
+
+        </p>
+
+    </footer>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+
+</html>

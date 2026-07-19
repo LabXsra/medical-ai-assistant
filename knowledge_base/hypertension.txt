@@ -1,0 +1,33 @@
+Disease: Hypertension
+
+Overview:
+Hypertension is a chronic condition where blood pressure remains consistently elevated, increasing the risk of cardiovascular disease.
+
+Symptoms:
+- Often no symptoms
+- Headache
+- Blurred vision
+- Dizziness
+- Chest pain
+
+Causes:
+Genetics, obesity, excessive salt intake, kidney disease, stress.
+
+Risk Factors:
+- Age
+- Smoking
+- Diabetes
+- Obesity
+- Family history
+
+Diagnosis:
+Repeated blood pressure measurements and laboratory evaluation.
+
+Treatment:
+Lifestyle modification, antihypertensive medications, weight management.
+
+Prevention:
+Healthy diet, regular exercise, reduced salt intake, avoiding smoking.
+
+Emergency Signs:
+Blood pressure above 180/120 mmHg with chest pain, vision changes, or confusion.

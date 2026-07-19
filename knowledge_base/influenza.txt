@@ -1,0 +1,37 @@
+Disease: Influenza
+
+Overview:
+Influenza, commonly known as the flu, is a contagious viral infection that affects the respiratory system. It spreads rapidly during seasonal outbreaks and can cause mild to severe illness. Most healthy individuals recover within one to two weeks, but serious complications may occur in vulnerable populations.
+
+Symptoms:
+- High fever
+- Chills
+- Dry cough
+- Sore throat
+- Body pain
+- Headache
+- Fatigue
+- Runny nose
+- Shortness of breath
+
+Causes:
+Influenza is caused by influenza A and B viruses. It spreads through respiratory droplets when an infected person coughs, sneezes, or talks.
+
+Risk Factors:
+- Elderly individuals
+- Young children
+- Pregnant women
+- Chronic diseases
+- Weak immune system
+
+Diagnosis:
+Diagnosis is based on symptoms and may be confirmed using rapid influenza diagnostic tests or PCR testing.
+
+Treatment:
+Rest, hydration, antiviral medications when indicated, and fever-reducing medications.
+
+Prevention:
+Annual influenza vaccination, hand hygiene, avoiding close contact with infected individuals.
+
+Emergency Signs:
+Difficulty breathing, persistent chest pain, confusion, or prolonged high fever.

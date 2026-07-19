@@ -1,0 +1,32 @@
+Disease: Gastroenteritis
+
+Overview:
+Gastroenteritis is inflammation of the stomach and intestines caused by viral, bacterial, or parasitic infections.
+
+Symptoms:
+- Diarrhea
+- Vomiting
+- Abdominal pain
+- Fever
+- Nausea
+- Dehydration
+
+Causes:
+Norovirus, rotavirus, contaminated food or water.
+
+Risk Factors:
+- Poor sanitation
+- Contaminated food
+- Weak immunity
+
+Diagnosis:
+Clinical examination, stool analysis if necessary.
+
+Treatment:
+Oral rehydration, fluids, electrolyte replacement, medications for symptom relief.
+
+Prevention:
+Safe food preparation, clean drinking water, hand hygiene.
+
+Emergency Signs:
+Persistent vomiting, severe dehydration, bloody stools.

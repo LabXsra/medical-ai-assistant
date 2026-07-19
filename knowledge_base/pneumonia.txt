@@ -1,0 +1,35 @@
+Disease: Pneumonia
+
+Overview:
+Pneumonia is an infection that inflames the air sacs of one or both lungs. The air sacs may fill with fluid or pus, making breathing difficult.
+
+Symptoms:
+- Fever
+- Cough
+- Chest pain
+- Shortness of breath
+- Chills
+- Fatigue
+- Rapid breathing
+
+Causes:
+Bacteria, viruses, fungi, or aspiration of food and liquids.
+
+Risk Factors:
+- Elderly
+- Smoking
+- Chronic lung disease
+- Diabetes
+- Weak immunity
+
+Diagnosis:
+Chest X-ray, blood tests, sputum culture, pulse oximetry.
+
+Treatment:
+Antibiotics, antivirals, oxygen therapy, fluids, and hospitalization if severe.
+
+Prevention:
+Vaccination, smoking cessation, hand hygiene.
+
+Emergency Signs:
+Severe breathing difficulty, low oxygen levels, confusion, chest pain.
